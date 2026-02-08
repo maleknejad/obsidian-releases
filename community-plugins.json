@@ -10224,7 +10224,7 @@
     "name": "Persian Calendar",
     "author": "Hossein Maleknejad",
     "description": "Persian Calendar for managing periodic notes based on persian solar (shamsi) calendar.",
-    "repo": "maleknejad/obsidian-persian-calendar"
+    "repo": "karfekr/obsidian-persian-calendar"
   },
   {
     "id": "daily-note-navbar",
